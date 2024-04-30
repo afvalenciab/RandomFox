@@ -21,7 +21,7 @@ export default function Home() {
   };
 
   const handleLazyLoad = (node: HTMLImageElement): void => {
-    console.log('La imagen se ha carado y el nodo es:');
+    console.log('La imagen se ha cargado y el nodo es:');
     console.log(node);
   };
 
